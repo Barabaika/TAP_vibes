@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+.venv*/
+.tap-env/
+build/
+dist/
+assets/
+outputs/
+*.tgz
+*.part

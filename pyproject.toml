@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tap-vibes"
+version = "0.1.0"
+description = "Paired antibody folding and TAP2 metrics with archived TAP service regression tests"
+readme = "README.md"
+requires-python = ">=3.10,<3.12"
+dependencies = [
+  "numpy==1.26.4", "scipy==1.15.3", "biopython==1.87",
+  "anarci==2026.2.13.2", "requests==2.33.1", "beautifulsoup4==4.14.3"
+]
+
+[project.optional-dependencies]
+fold = ["ImmuneBuilder==1.2", "openmm==8.2.0", "pdbfixer==1.12.0", "torch==2.1.0"]
+test = ["pytest>=8,<9"]
+
+[project.scripts]
+tap-fold = "tap2_pipeline:main"
+tap-score = "tap2_score:main"
+tap-web = "tap2_web:main"
+tap-assets = "prepare_assets:main"
+
+[tool.setuptools]
+py-modules = ["tap2_pipeline", "tap2_metrics", "tap2_profiles", "tap2_compat", "tap2_score", "tap2_web", "prepare_assets", "compare"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["structure: compare all five descriptors on archived web PDBs", "live: explicit opt-in request to the public TAP server"]

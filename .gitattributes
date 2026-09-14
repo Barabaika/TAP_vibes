@@ -1,0 +1,9 @@
+*.py text eol=lf
+*.sh text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+# Preserve downloaded server structures byte-for-byte for SHA256 regression checks.
+*.pdb binary
+*.html binary

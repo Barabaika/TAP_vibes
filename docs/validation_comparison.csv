@@ -1,0 +1,201 @@
+id,name,profile,metric,value,web_value,delta,actual_web_flag,url
+000_9f7bf0ec0890,h3A3-5,same_pdb_web,L_tot,43,43.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,same_pdb_web,PSH,143.99104922550856,143.991,4.922550854757901e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,same_pdb_web,PPC,0.14538017051053603,0.1454,-1.982948946396834e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,same_pdb_web,PNC,0.09694679957559246,0.0969,4.679957559246273e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,same_pdb_web,SFvCSP,4.41,4.41,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,same_pdb_paper,L_tot,43,43.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,same_pdb_paper,PSH,151.41223839664138,143.991,7.421238396641371,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,same_pdb_paper,PPC,0.14538017051053603,0.1454,-1.982948946396834e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,same_pdb_paper,PNC,0.03612146856972068,0.0969,-0.06077853143027932,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,same_pdb_paper,SFvCSP,4.41,4.41,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_web,L_tot,43,43.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_web,PSH,140.47121670061165,143.991,-3.519783299388365,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_web,PPC,0.1488881520083904,0.1454,0.003488152008390394,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_web,PNC,0.09651001433912257,0.0969,-0.0003899856608774316,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_web,SFvCSP,2.3100000000000005,4.41,-2.0999999999999996,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_paper,L_tot,43,43.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_paper,PSH,146.62050447059295,143.991,2.6295044705929342,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_paper,PPC,0.14508526280883374,0.1454,-0.00031473719116625887,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_paper,PNC,0.03619926351147718,0.0969,-0.06070073648852282,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+000_9f7bf0ec0890,h3A3-5,local_fold_paper,SFvCSP,2.3100000000000005,4.41,-2.0999999999999996,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0682827
+001_a1e4da673c05,AB240,same_pdb_web,L_tot,44,44.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,same_pdb_web,PSH,95.03002642871972,95.03,2.6428719721138805e-05,RED,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,same_pdb_web,PPC,0.12436299576279362,0.1244,-3.70042372063728e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,same_pdb_web,PNC,0.2141385334986636,0.2141,3.8533498663589905e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,same_pdb_web,SFvCSP,-7.379999999999999,-7.38,8.881784197001252e-16,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,same_pdb_paper,L_tot,44,44.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,same_pdb_paper,PSH,104.6387375881256,95.03,9.608737588125592,RED,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,same_pdb_paper,PPC,0.12436299576279362,0.1244,-3.70042372063728e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,same_pdb_paper,PNC,0.2141385334986636,0.2141,3.8533498663589905e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,same_pdb_paper,SFvCSP,-7.379999999999999,-7.38,8.881784197001252e-16,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_web,L_tot,44,44.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_web,PSH,91.56336885044215,95.03,-3.4666311495578555,RED,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_web,PPC,0.1290625111561722,0.1244,0.004662511156172208,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_web,PNC,0.141070331444268,0.2141,-0.07302966855573201,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_web,SFvCSP,-3.28,-7.38,4.1,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_paper,L_tot,44,44.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_paper,PSH,102.65825846176993,95.03,7.628258461769931,RED,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_paper,PPC,0.1290625111561722,0.1244,0.004662511156172208,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_paper,PNC,0.21805643252734402,0.2141,0.0039564325273440115,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+001_a1e4da673c05,AB240,local_fold_paper,SFvCSP,-3.279999999999999,-7.38,4.100000000000001,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0163210
+002_04f63cb2abe3,31HZ,same_pdb_web,L_tot,53,53.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,same_pdb_web,PSH,153.0473374190429,153.0473,3.741904288290243e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,same_pdb_web,PPC,0.018552883419343965,0.0186,-4.7116580656033497e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,same_pdb_web,PNC,0.4936287451817593,0.4936,2.87451817593265e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,same_pdb_web,SFvCSP,1.1,1.1,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,same_pdb_paper,L_tot,53,53.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,same_pdb_paper,PSH,160.25932049207236,153.0473,7.212020492072355,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,same_pdb_paper,PPC,0.007736050327184895,0.0186,-0.010863949672815103,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,same_pdb_paper,PNC,0.0,0.4936,-0.4936,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,same_pdb_paper,SFvCSP,0.0,1.1,-1.1,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_web,L_tot,53,53.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_web,PSH,154.83249480757573,153.0473,1.7851948075757207,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_web,PPC,0.017275398350909642,0.0186,-0.001324601649090356,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_web,PNC,0.4748304577959753,0.4936,-0.01876954220402466,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_web,SFvCSP,1.1,1.1,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_paper,L_tot,53,53.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_paper,PSH,158.01294039743505,153.0473,4.965640397435038,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_paper,PPC,0.00786817175004388,0.0186,-0.010731828249956119,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_paper,PNC,0.0,0.4936,-0.4936,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+002_04f63cb2abe3,31HZ,local_fold_paper,SFvCSP,0.0,1.1,-1.1,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0709590
+003_144f181c07bd,56HZ,same_pdb_web,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,same_pdb_web,PSH,140.69034260206672,140.6904,-5.739793328984888e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,same_pdb_web,PPC,0.005677614749469015,0.0057,-2.238525053098548e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,same_pdb_web,PNC,0.34408910233753837,0.3441,-1.0897662461650803e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,same_pdb_web,SFvCSP,4.830000000000002,4.83,1.7763568394002505e-15,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,same_pdb_paper,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,same_pdb_paper,PSH,144.53005064541946,140.6904,3.8396506454194537,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,same_pdb_paper,PPC,0.0,0.0057,-0.0057,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,same_pdb_paper,PNC,0.0,0.3441,-0.3441,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,same_pdb_paper,SFvCSP,3.630000000000001,4.83,-1.1999999999999993,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_web,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_web,PSH,131.5514235024089,140.6904,-9.138976497591102,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_web,PPC,0.005517964669077991,0.0057,-0.00018203533092200908,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_web,PNC,0.3663982419654004,0.3441,0.022298241965400367,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_web,SFvCSP,6.9300000000000015,4.83,2.1000000000000014,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_paper,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_paper,PSH,135.36837884840884,140.6904,-5.322021151591173,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_paper,PPC,0.005517964669077991,0.0057,-0.00018203533092200908,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_paper,PNC,0.15316277329364347,0.3441,-0.19093722670635654,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+003_144f181c07bd,56HZ,local_fold_paper,SFvCSP,0.4299999999999999,4.83,-4.4,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0008470
+004_02b2dc2003fa,74HZ,same_pdb_web,L_tot,57,57.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,same_pdb_web,PSH,157.24155771552392,157.2416,-4.22844760805674e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,same_pdb_web,PPC,0.011413215852410804,0.0114,1.321585241080385e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,same_pdb_web,PNC,0.0785864807075872,0.0786,-1.3519292412805806e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,same_pdb_web,SFvCSP,3.0999999999999996,3.1,-4.440892098500626e-16,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,same_pdb_paper,L_tot,57,57.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,same_pdb_paper,PSH,163.51827843805467,157.2416,6.27667843805466,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,same_pdb_paper,PPC,0.011413215852410804,0.0114,1.321585241080385e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,same_pdb_paper,PNC,0.0,0.0786,-0.0786,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,same_pdb_paper,SFvCSP,3.1,3.1,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_web,L_tot,57,57.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_web,PSH,152.0796047910603,157.2416,-5.1619952089397145,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_web,PPC,0.011853316370835289,0.0114,0.0004533163708352883,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_web,PNC,0.07355244470949739,0.0786,-0.005047555290502617,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_web,SFvCSP,3.0999999999999996,3.1,-4.440892098500626e-16,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_paper,L_tot,57,57.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_paper,PSH,156.4809088896239,157.2416,-0.7606911103761149,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_paper,PPC,0.011853316370835289,0.0114,0.0004533163708352883,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_paper,PNC,0.0,0.0786,-0.0786,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+004_02b2dc2003fa,74HZ,local_fold_paper,SFvCSP,3.1,3.1,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0905888
+005_2ee7429800eb,h11E6.1,same_pdb_web,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,same_pdb_web,PSH,142.26337752999478,142.2634,-2.2470005205832422e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,same_pdb_web,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,same_pdb_web,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,same_pdb_web,SFvCSP,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,same_pdb_paper,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,same_pdb_paper,PSH,154.82198564560042,142.2634,12.55858564560043,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,same_pdb_paper,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,same_pdb_paper,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,same_pdb_paper,SFvCSP,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_web,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_web,PSH,142.9739977331934,142.2634,0.7105977331934241,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_web,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_web,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_web,SFvCSP,4.0,0.0,4.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_paper,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_paper,PSH,152.15282510607034,142.2634,9.889425106070348,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_paper,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_paper,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+005_2ee7429800eb,h11E6.1,local_fold_paper,SFvCSP,4.0,0.0,4.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0485025
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_web,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_web,PSH,118.41638485856387,118.4164,-1.5141436122689811e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_web,PPC,0.01668807021713493,0.0167,-1.1929782865068711e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_web,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_web,SFvCSP,8.4,8.4,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_paper,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_paper,PSH,126.55763974207086,118.4164,8.141239742070866,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_paper,PPC,0.01668807021713493,0.0167,-1.1929782865068711e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_paper,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),same_pdb_paper,SFvCSP,8.4,8.4,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_web,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_web,PSH,123.59939197542269,118.4164,5.182991975422695,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_web,PPC,0.016240283241899262,0.0167,-0.00045971675810073734,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_web,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_web,SFvCSP,8.4,8.4,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_paper,L_tot,47,47.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_paper,PSH,127.63491283811693,118.4164,9.218512838116936,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_paper,PPC,0.016240283241899262,0.0167,-0.00045971675810073734,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_paper,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+006_7c0a04f58e9c,HuAb348 row 15 (unnamed),local_fold_paper,SFvCSP,8.4,8.4,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0456071
+007_f829053c9d1b,NuHuTac,same_pdb_web,L_tot,42,42.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,same_pdb_web,PSH,129.4240498210887,129.424,4.982108868034629e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,same_pdb_web,PPC,0.13540260804160167,0.1354,2.608041601681599e-06,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,same_pdb_web,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,same_pdb_web,SFvCSP,3.0,3.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,same_pdb_paper,L_tot,42,42.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,same_pdb_paper,PSH,140.1963398209293,129.424,10.77233982092929,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,same_pdb_paper,PPC,0.0,0.1354,-0.1354,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,same_pdb_paper,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,same_pdb_paper,SFvCSP,2.0,3.0,-1.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_web,L_tot,42,42.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_web,PSH,130.27153703979695,129.424,0.8475370397969471,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_web,PPC,0.13439562141981598,0.1354,-0.0010043785801840122,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_web,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_web,SFvCSP,3.0,3.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_paper,L_tot,42,42.0,0.0,AMBER,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_paper,PSH,140.22180998643844,129.424,10.797809986438438,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_paper,PPC,0.0,0.1354,-0.1354,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_paper,PNC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+007_f829053c9d1b,NuHuTac,local_fold_paper,SFvCSP,2.0,3.0,-1.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0433903
+008_febdda1cf36a,hSC73.38,same_pdb_web,L_tot,44,44.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,same_pdb_web,PSH,113.62084057183938,113.6208,4.0571839377889773e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,same_pdb_web,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,same_pdb_web,PNC,0.2879123732503244,0.2879,1.2373250324437812e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,same_pdb_web,SFvCSP,2.0,2.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,same_pdb_paper,L_tot,44,44.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,same_pdb_paper,PSH,119.06174453653688,113.6208,5.440944536536875,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,same_pdb_paper,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,same_pdb_paper,PNC,0.0,0.2879,-0.2879,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,same_pdb_paper,SFvCSP,0.0,2.0,-2.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_web,L_tot,44,44.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_web,PSH,117.62917144793275,113.6208,4.0083714479327455,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_web,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_web,PNC,0.27694242101042627,0.2879,-0.010957578989573724,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_web,SFvCSP,2.0,2.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_paper,L_tot,44,44.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_paper,PSH,119.52912805649682,113.6208,5.9083280564968135,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_paper,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_paper,PNC,0.0,0.2879,-0.2879,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+008_febdda1cf36a,hSC73.38,local_fold_paper,SFvCSP,0.0,2.0,-2.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0618195
+009_5145289e2ad8,hSC73.39,same_pdb_web,L_tot,52,52.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,same_pdb_web,PSH,138.04994425796505,138.0499,4.425796504392565e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,same_pdb_web,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,same_pdb_web,PNC,0.2659481683839888,0.2659,4.81683839888003e-05,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,same_pdb_web,SFvCSP,3.0,3.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,same_pdb_paper,L_tot,52,52.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,same_pdb_paper,PSH,142.0314872416025,138.0499,3.981587241602483,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,same_pdb_paper,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,same_pdb_paper,PNC,0.22971839369540475,0.2659,-0.03618160630459527,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,same_pdb_paper,SFvCSP,3.0,3.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_web,L_tot,52,52.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_web,PSH,137.67922127028567,138.0499,-0.3706787297143421,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_web,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_web,PNC,0.24822515155908753,0.2659,-0.017674848440912494,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_web,SFvCSP,3.0,3.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_paper,L_tot,52,52.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_paper,PSH,141.58282533281675,138.0499,3.5329253328167454,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_paper,PPC,0.0,0.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_paper,PNC,0.2114814020783504,0.2659,-0.05441859792164963,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
+009_5145289e2ad8,hSC73.39,local_fold_paper,SFvCSP,3.0,3.0,0.0,GREEN,https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabpred/tap_results/20260914_0233422
